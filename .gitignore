@@ -66,3 +66,4 @@ logs
 saves/*
 saves/
 saves
+server.properties
