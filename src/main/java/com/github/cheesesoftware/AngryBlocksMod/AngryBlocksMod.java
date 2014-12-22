@@ -29,7 +29,7 @@ public class AngryBlocksMod
 		// some example code
         System.out.println("DIRT BLOCK >> "+Blocks.dirt.getUnlocalizedName());
     
-        angryDirt = new BlockAngryDirt(538, 0).setUnlocalizedName("Angry Dirt");
+        angryDirt = new BlockAngryDirt(538, 0);
         
         proxy.registerRenderThings();
 
