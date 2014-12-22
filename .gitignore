@@ -60,3 +60,6 @@ $RECYCLE.BIN/
 world/*
 world/
 world
+logs/*
+logs/
+logs
