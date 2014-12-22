@@ -63,3 +63,6 @@ world
 logs/*
 logs/
 logs
+saves/*
+saves/
+saves
